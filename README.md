@@ -6,4 +6,3 @@ This is a datapack that provides compatibilities between Nature's Spirit and Far
 
 [https://modrinth.com/datapack/ns-fd-rc](https://modrinth.com/datapack/ns-fd-rc)
 
-~~开源没意思，闭源又不好意思😂~~
